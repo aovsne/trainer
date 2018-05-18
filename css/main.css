@@ -7,6 +7,9 @@ body{
 *{
 	font-family: 'Exo 2', sans-serif;
 }
+.myself{
+	line-height:1.8;
+}
 a {
     color: black;
     text-decoration: none;
@@ -77,6 +80,7 @@ h1.mainhead{
 	font-family: 'Exo 2', sans-serif;
 }
 
+
 .abt{
 	text-align:center;
 	background-color:#e6e72e;
@@ -106,6 +110,12 @@ h1.mainhead{
 }
 .intro h3, .intro1 h3{
 	margin-top:80px;
+	margin-bottom:40px;
+	font-size:30px;
+	
+}
+p{
+	font-size:16px;
 }
 .intro1{
 	text-align:center;
@@ -121,7 +131,7 @@ h1.mainhead{
 .serv{
 	text-align:center;
 	background-color:#fffdc4;
-	height:440px;
+	height:350px;
 }
 .serv p{
 	font-size:16px;
